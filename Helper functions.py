@@ -6,7 +6,6 @@ Utility functions for the Luxury Retail Merchandising Analytics Dashboard.
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
-import streamlit as st
 
 
 # ─────────────────────────────────────────────
